@@ -14,8 +14,8 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="NewCoin"
-COIN_UNIT="NCC"
+COIN_NAME="Birdcoin"
+COIN_UNIT="BRD"
 # 168 million coins at total (litecoin total supply is 84000000) 84000000 * 2
 TOTAL_SUPPLY=168000000
 MAINNET_PORT="9332"
